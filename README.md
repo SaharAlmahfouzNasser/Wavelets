@@ -10,3 +10,5 @@ of the SR image which serve as input to IDWT to generate the SR image.
 
 
 In this project: I implemented U-Net, SRResNet, DCED networks. I edited the original networks by adding wavelets blocks.
+
+Check Report.pdf for full details 
