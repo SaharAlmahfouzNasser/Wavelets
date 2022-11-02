@@ -7,3 +7,4 @@ overfitting and reduce the computation burden. On the other hand, these layers c
 see figure 10. In the same year Guo et al proposed deep wavelet super-resolution network. This network
 predicts the missing details of the wavelet coefficients of the low-resolution images to obtain the coefficients
 of the SR image which serve as input to IDWT to generate the SR image.
+In this project: I implemented U-Net, SRResNet, DCED networks. I edited the original networks by adding wavelets blocks.
